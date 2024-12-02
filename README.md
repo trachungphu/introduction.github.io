@@ -4,6 +4,7 @@
 </head>
  <body> 
    <tr> 
+	   ![my](https://github.com/user-attachments/assets/ef288938-be9f-4f76-a71a-4de749a0df01)
     <img src="https://baogiaothong.mediacdn.vn/upload/2-2022/images/2022-04-18/1-1650247268-869-width740height555.jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Bridge_Da-Nang_%2848951166538%29.jpg/1280px-Golden_Bridge_Da-Nang_%2848951166538%29.jpg">
      <h2>Tóm tắt tiểu sử</h2>
@@ -38,4 +39,4 @@
 </table>
 </body>
 </html>
-![my](https://github.com/user-attachments/assets/ef288938-be9f-4f76-a71a-4de749a0df01)
+
