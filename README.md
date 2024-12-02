@@ -5,7 +5,7 @@
  <body> 
   <table width=60% align="center">
    <tr> 
-    <img src="https://baogiaothong.mediacdn.vn/upload/2-2022/images/2022-04-18/1-1650247268-869-width740height555.jpg"></td>
+    <img src="https://baogiaothong.mediacdn.vn/upload/2-2022/images/2022-04-18/1-1650247268-869-width740height555.jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Bridge_Da-Nang_%2848951166538%29.jpg/1280px-Golden_Bridge_Da-Nang_%2848951166538%29.jpg">
      <h2>Tóm tắt tiểu sử</h2>
      <ul style="font-size:large">
